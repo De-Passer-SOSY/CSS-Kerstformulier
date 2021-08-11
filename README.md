@@ -27,8 +27,6 @@ Maak een formulier om je kerstwensen aan de kerstman kenbaar te maken. Pas de no
 9.	Voeg nu de drie verschillende blokken toe: “Some information about you”, “Something to please Santa” en “At last… your request”. Dit zijn alle drie fieldsets.
 10.	Stijl iedere individuele fieldset a.h.v. de informatie in het bestand kleurcodes.txt.
 11.	Voeg per fieldset de juiste velden in. Enkele bijzonderheden:
-
-
         * Het veld “Where shall we mail your pending approval to?” laat enkel mailadressen toe.
         * “Where are you from” bevat drie mogelijk keuzes: Earth, Venus en Mars.
         * De gebruiker moet kiezen tussen “Elves” en “Reindeer”. Slechts één optie toegelaten.
