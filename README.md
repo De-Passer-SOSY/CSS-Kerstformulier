@@ -27,12 +27,14 @@ Maak een formulier om je kerstwensen aan de kerstman kenbaar te maken. Pas de no
 9.	Voeg nu de drie verschillende blokken toe: “Some information about you”, “Something to please Santa” en “At last… your request”. Dit zijn alle drie fieldsets.
 10.	Stijl iedere individuele fieldset a.h.v. de informatie in het bestand kleurcodes.txt.
 11.	Voeg per fieldset de juiste velden in. Enkele bijzonderheden:
-        * Het veld “Where shall we mail your pending approval to?” laat enkel mailadressen toe.
-        * “Where are you from” bevat drie mogelijk keuzes: Earth, Venus en Mars.
-        * De gebruiker moet kiezen tussen “Elves” en “Reindeer”. Slechts één optie toegelaten.
-        * Voor de decoratie van de kerstboom, mogen er meerdere opties gekozen worden: “Balls” en/of “Lights” en/of “Snow” en/of “Little men” en/of “Fireworks”.
-        * “What is your favourite x-mas movie” is een dropdown-lijst waaruit de gebruiker één film kan uitkiezen.
-        * “How many x-mas trees do you own” laat enkel (gehele) getallen toe.
+
+
+        1: Het veld “Where shall we mail your pending approval to?” laat enkel mailadressen toe.
+        2: “Where are you from” bevat drie mogelijk keuzes: Earth, Venus en Mars.
+        3: De gebruiker moet kiezen tussen “Elves” en “Reindeer”. Slechts één optie toegelaten.
+        4: Voor de decoratie van de kerstboom, mogen er meerdere opties gekozen worden: “Balls” en/of “Lights” en/of “Snow” en/of “Little men” en/of “Fireworks”.
+        5: “What is your favourite x-mas movie” is een dropdown-lijst waaruit de gebruiker één film kan uitkiezen.
+        6: “How many x-mas trees do you own” laat enkel (gehele) getallen toe.
 
 
 12.	Voeg tenslotte ook de knop “Send to santa!” toe. 
